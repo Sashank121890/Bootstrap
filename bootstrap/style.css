@@ -1,0 +1,17 @@
+.card {
+  border: 2px solid black;
+}
+
+.container .card .card-body i {
+  font-size: 30px;
+  /* margin-left: 10px; */
+  color: rgb(0, 0, 0);
+  margin: 10px;
+}
+.container .card .card-body i:hover {
+  color: greenyellow;
+}
+#head {
+  margin-top: 50px;
+  text-decoration: none;
+}
